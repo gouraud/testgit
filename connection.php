@@ -1,5 +1,6 @@
-<?php
 
+<?php
+//rajout d'un commentaire
 class Adherent
 
 {
