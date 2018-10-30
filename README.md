@@ -3,5 +3,5 @@
 #juste pour essayer et utiliser GIT en local
 # fichier modifie en local
 # deuxieme modification 
-# encore une autre
 # dernier test
+# modification à afficher avec une ligne supprimée
