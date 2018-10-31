@@ -5,3 +5,4 @@
 # deuxieme modification 
 # dernier test
 # modification à afficher avec une ligne supprimée
+# rajout d'une lignegit diff
